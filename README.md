@@ -13,8 +13,8 @@ Parte 1: <a target="_blank" href="https://colab.research.google.com/github/clima
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
 </a>
 
-Parte 2: <a target="_blank" href="[https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb](https://colab.research.google.com/drive/1VHfWHNHUmDnKD1jM1PwvYEkXYBIwIPJI?authuser=0#scrollTo=KEZwlJjSgt_-)"]>
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
+Part 2: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Tiempo estimado de ejecución de principio a fin: 1 hora
