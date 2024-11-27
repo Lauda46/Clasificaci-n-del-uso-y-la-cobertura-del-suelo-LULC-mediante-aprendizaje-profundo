@@ -13,7 +13,7 @@ Parte 1: <a target="_blank" href="https://colab.research.google.com/github/clima
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
 </a>
 
-Part 2: <a target="_blank" href="[https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb](https://colab.research.google.com/github/juansebastianguzmanbuitrago/Clasificaci-n-del-uso-y-la-cobertura-del-suelo-LULC-mediante-aprendizaje-profundo/blob/main/uso_del_suelo_y_cobertura_del_suelo_parte_2.ipynb)">
+Parte 2: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
